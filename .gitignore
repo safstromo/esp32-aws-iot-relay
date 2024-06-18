@@ -1,0 +1,14 @@
+/.vscode
+/.embuild
+/target
+/Cargo.lock
+
+# Ignore all .cert files
+*.cert
+
+# Ignore all .key files
+*.key
+
+*.env
+aws/*
+aws/*
